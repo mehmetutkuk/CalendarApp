@@ -1,0 +1,23 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "johndoe@abc.com",
+        "gender": "Male",
+        "status": "Terminated",
+        "loggedIn": "true",
+        "message":"",
+        "password":"1234"
+      }
+    ],
+    "appointments":
+    [
+      {
+        "StartDateTime":"09-02-2021 20:20",
+        "Title":"Example",
+        "FinishDateTime" :"09-02-2021 21:20"
+      }
+    ]
+  }
